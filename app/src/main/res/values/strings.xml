@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">人脸识别</string>
+
+    <string name="title">人脸识别</string>
+    <string name="scan">识别</string>
+    <string name="scanning">识别中…</string>
+    <string name="result_label">识别结果</string>
+    <string name="empty_hint">对准人脸后点「识别」</string>
+
+    <string name="no_text">未检测到人脸</string>
+    <string name="scan_failed">识别失败</string>
+    <string name="decode_failed">画面读取失败</string>
+    <string name="camera_denied">未获得相机权限</string>
+    <string name="camera_failed">相机启动失败</string>
+</resources>
